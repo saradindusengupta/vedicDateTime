@@ -4,5 +4,5 @@
 .Ruserdata
 *.ipynb
 .vscode
-/tests/notebooks/*.*
+~/tests/notebooks/*.*
 .dccache
